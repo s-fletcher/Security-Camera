@@ -6,3 +6,6 @@ Python code for a Raspberry Pi 3 that detects motion, takes a picture, and email
 - Camera Module 5MP
 - Infared PIR Motion Detector Sensor
 - Jumper Wires (F to F)
+
+### Demo:
+https://vimeo.com/316245297
